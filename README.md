@@ -4,7 +4,7 @@
 - [C++ JSON Parsing Library 2](https://github.com/AkaAkad/rapidjson)
 - [Node.js Library for Image Processing](https://github.com/AkaAkad/nodejs_image)
 - [OCR Trained Model](https://github.com/AkaAkad/ocr)
-- [Speech Recognition Library](https://github.com/AkaAkad/rapidjson)
+- [Speech Recognition Library](https://github.com/AkaAkad/vosk)
 - [English Speech Recogniton Model](https://alphacephei.com/vosk/models/vosk-model-en-us-0.22.zip)
 - [Toshiba Ac100-1](https://docs.google.com/uc?export=download&confirm=xQ1b&id=0BzHUnWusu2ztdjZjRmE3VW9YWlk)
 - [Toshiba Ac100-2](https://drive.google.com/uc?id=0BzHUnWusu2ztc3R2OEEta19sYzA&export=download)
